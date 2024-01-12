@@ -1,0 +1,5 @@
+# Ignore Docker configuration files
+*.dockerfile
+.dockerignore
+*.devcontainer/
+
